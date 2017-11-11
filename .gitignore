@@ -37,6 +37,7 @@ target/
 
 # ctags
 TAGS
+tags
 
 # sphinx
 docs/build
